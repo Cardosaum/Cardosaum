@@ -2,8 +2,8 @@
 
 <!-- ### print('Hello World!') -->
 
-Computer Science Undergraduate at [University of Brasília](https://www.unb.br/)
-working with projects related to Bioinformatics & Computational Biology
+Computer Science Undergraduate at [University of Brasília](https://www.unb.br/)\\
+Working with projects related to Bioinformatics & Computational Biology.
 
 <!-- Competitive Programmer studying for the [International Collegiate Programming Contest](https://icpc.global/) -->
 
@@ -47,11 +47,12 @@ Here are some ideas to get you started:
   ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c)
   ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B&logoColor=Red)
   ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust)
-  <!-- ![JS](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript) -->
-
   ![Python](https://img.shields.io/badge/-Python3-000000?style=flat&logo=Python)
   ![Ruby](https://img.shields.io/badge/-Ruby-000000?style=flat&logo=Ruby)
-  <!-- ![C](https://img.shields.io/badge/-Java-000000?style=flat&logo=java) -->
+  ![R](https://img.shields.io/badge/-R-000000?style=flat&logo=R)
+  ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=sqlite)
+  <!-- ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java) -->
+  <!-- ![JS](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript) -->
 
 - ##### Tools:
 
