@@ -24,17 +24,6 @@ Here are some ideas to get you started:
 
 ### 📊 Statistics
 
-|                                                                                                       General Stats                                                                                                        |                                                                                               Lang Stats                                                                                                |
-| :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| [![GitHub Status](https://github-readme-stats.vercel.app/api?username=Cardosaum&show_icons=true&theme=material-palenight&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cardosaum&theme=material-palenight&langs_count=10&hide=html,css,scss)](https://github.com/anuraghazra/github-readme-stats) |
-
-</br>
-
-[![GitHub Status](https://github-readme-stats.vercel.app/api?username=Cardosaum&show_icons=true&theme=material-palenight&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cardosaum&theme=material-palenight&langs_count=5&hide=html,css,scss)](https://github.com/anuraghazra/github-readme-stats)
-
-</br>
-
 [![GitHub Status](https://github-readme-stats.vercel.app/api?username=Cardosaum&show_icons=true&theme=material-palenight&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 </br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cardosaum&theme=material-palenight&langs_count=10&hide=html,css,scss)](https://github.com/anuraghazra/github-readme-stats)
@@ -75,9 +64,9 @@ Here are some ideas to get you started:
 
 - ##### Plan to Learn:
   ![TS](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript&logoColor=blue)
+  ![Go](https://img.shields.io/badge/-Go-000000?style=flat&logo=Go)
   <!-- ![React](https://img.shields.io/badge/-ReactJS-000000?style=flat&logo=React) -->
   <!-- ![Deno](https://img.shields.io/badge/-Deno-000000?style=flat&logo=deno) -->
   <!-- ![Dart](https://img.shields.io/badge/-Dart-000000?style=flat&logo=Dart) -->
   <!-- ![Flutter](https://img.shields.io/badge/-Flutter-000000?style=flat&logo=Flutter) -->
-  ![Go](https://img.shields.io/badge/-Go-000000?style=flat&logo=Go)
   <!-- ![Swift](https://img.shields.io/badge/-Swift-000000?style=flat&logo=Swift) -->
