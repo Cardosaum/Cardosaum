@@ -7,7 +7,7 @@ working with projects related to Bioinformatics & Computational Biology
 
 <!-- Competitive Programmer studying for the [International Collegiate Programming Contest](https://icpc.global/) -->
 
-[![Github Badge](https://img.shields.io/github/followers/Cardosaum?label=Follow&style=social)](https://github.com/tilnoene/)
+[![Github Badge](https://img.shields.io/github/followers/Cardosaum?label=Follow&style=social)](https://github.com/Cardosaum/)
 
 <!-- [![Codeforces Badge](https://cp-logo.vercel.app/codeforces/tilnoene)](https://codeforces.com/profile/tilnoene) -->
 <!-- [![AtCoder Badge](https://cp-logo.vercel.app/atcoder/tilnoene)](https://atcoder.jp/users/tilnoene) -->
