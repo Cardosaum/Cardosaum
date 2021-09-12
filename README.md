@@ -40,6 +40,14 @@ Here are some ideas to get you started:
 
 ---
 
+### 📊 Statistics
+
+[![GitHub Status](https://github-readme-stats.vercel.app/api?username=Cardosaum&show_icons=true&theme=nord&hide=issues)](https://github.com/anuraghazra/github-readme-stats)
+
+![Snake animation](https://github.com/Cardosaum/Cardosaum/blob/output/github-contribution-grid-snake.svg)
+
+---
+
 ### 💻 Tech:
 
 - ##### Programming Languages:
@@ -76,11 +84,3 @@ Here are some ideas to get you started:
   <!-- ![Flutter](https://img.shields.io/badge/-Flutter-000000?style=flat&logo=Flutter) -->
   ![Go](https://img.shields.io/badge/-Go-000000?style=flat&logo=Go)
   <!-- ![Swift](https://img.shields.io/badge/-Swift-000000?style=flat&logo=Swift) -->
-
----
-
-### 📊 Statistics
-
-[![GitHub Status](https://github-readme-stats.vercel.app/api?username=Cardosaum&show_icons=true&theme=nord&hide=issues)](https://github.com/anuraghazra/github-readme-stats)
-
-![Snake animation](https://github.com/Cardosaum/Cardosaum/blob/output/github-contribution-grid-snake.svg)
