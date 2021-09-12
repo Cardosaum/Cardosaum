@@ -2,7 +2,7 @@
 
 <!-- ### print('Hello World!') -->
 
-Computer Science Undergraduate at [University of Brasília](https://www.unb.br/)</br>
+I'm a Computer Science Undergraduate at [University of Brasília](https://www.unb.br/),</br>
 Working with projects related to Bioinformatics & Computational Biology.
 
 [![Github Badge](https://img.shields.io/github/followers/Cardosaum?label=Follow&style=social)](https://github.com/Cardosaum/)
@@ -37,9 +37,10 @@ Here are some ideas to get you started:
 
 [![GitHub Status](https://github-readme-stats.vercel.app/api?username=Cardosaum&show_icons=true&theme=material-palenight&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 </br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cardosaum&theme=material-palenight&langs_count=5&hide=html,css,scss)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cardosaum&theme=material-palenight&langs_count=10&hide=html,css,scss)](https://github.com/anuraghazra/github-readme-stats)
 
 </br>
+
 ![Snake animation](https://github.com/Cardosaum/Cardosaum/blob/output/github-contribution-grid-snake.svg)
 
 ---
