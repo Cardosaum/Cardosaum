@@ -1,4 +1,4 @@
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 👋
 
 <!-- ### print('Hello World!') -->
 
@@ -24,10 +24,9 @@ Here are some ideas to get you started:
 
 ### 📊 Statistics
 
-<div>
-<img src="https://github-readme-stats.vercel.app/api?username=Cardosaum&show_icons=true&theme=material-palenight&count_private=true&include_all_commits=false" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cardosaum&theme=material-palenight&langs_count=10&hide=html,css,scss" />
-<div>
+[![GitHub Status](https://github-readme-stats.vercel.app/api?username=Cardosaum&show_icons=true&theme=material-palenight&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+</br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cardosaum&theme=material-palenight&langs_count=10&hide=html,css,scss)](https://github.com/anuraghazra/github-readme-stats)
 
 </br>
 
