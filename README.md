@@ -2,8 +2,8 @@
 
 <!-- ### print('Hello World!') -->
 
-I'm a Computer Science Undergraduate at [University of Brasília](https://www.unb.br/),</br>
-Working with projects related to Bioinformatics & Computational Biology.
+I'm a Computer Science student at [University of Brasília](https://www.unb.br/),</br>
+Working on projects related to Bioinformatics & Computational Biology.
 
 [![Github Badge](https://img.shields.io/github/followers/Cardosaum?label=Follow&style=social)](https://github.com/Cardosaum/)
 
