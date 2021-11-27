@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 [![GitHub Status](https://github-readme-stats.vercel.app/api?username=Cardosaum&show_icons=true&theme=material-palenight&count_private=true&include_all_commits=false)](https://github.com/anuraghazra/github-readme-stats)
 </br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cardosaum&theme=material-palenight&langs_count=10&hide=html,css,scss,javascript,tex&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cardosaum&theme=material-palenight&langs_count=10&hide=html,css,scss,javascript,tex,roff&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 </br>
 
