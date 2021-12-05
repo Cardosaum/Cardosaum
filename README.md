@@ -25,10 +25,9 @@ Here are some ideas to get you started:
 ### 📊 Statistics
 
 [![GitHub Status](https://github-readme-stats.vercel.app/api?username=Cardosaum&show_icons=true&theme=material-palenight&count_private=true&include_all_commits=false)](https://github.com/anuraghazra/github-readme-stats)
-</br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cardosaum&theme=material-palenight&langs_count=10&hide=html,css,scss,javascript,tex,roff&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-</br>
+[![Trophies](https://github-profile-trophy.vercel.app/?username=cardosaum&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy/tree/61c3f064a1da812b94b49991a79d449032769d85)
+<br/>
 
 ![Snake animation](https://github.com/Cardosaum/Cardosaum/blob/output/github-contribution-grid-snake.svg)
 
