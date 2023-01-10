@@ -1,35 +1,9 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-<!-- ### print('Hello World!') -->
-
 I'm a Computer Science student at [University of Brasília](https://www.unb.br/),</br>
 Working on projects related to Bioinformatics & Computational Biology.
 
 [![Github Badge](https://img.shields.io/github/followers/Cardosaum?label=Follow&style=social)](https://github.com/Cardosaum/)
-
-<!--
-**Cardosaum/Cardosaum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-### 📊 Statistics
-
-[![GitHub Status](https://github-readme-stats.vercel.app/api?username=Cardosaum&show_icons=true&theme=material-palenight&count_private=true&include_all_commits=false)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cardosaum&theme=material-palenight&langs_count=10&hide=html,css,scss,javascript,tex,roff&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![Trophies](https://github-profile-trophy.vercel.app/?username=cardosaum&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy/tree/61c3f064a1da812b94b49991a79d449032769d85)
-<br/>
-
-![Snake animation](https://github.com/Cardosaum/Cardosaum/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
@@ -69,3 +43,37 @@ Here are some ideas to get you started:
   <!-- ![Dart](https://img.shields.io/badge/-Dart-000000?style=flat&logo=Dart) -->
   <!-- ![Flutter](https://img.shields.io/badge/-Flutter-000000?style=flat&logo=Flutter) -->
   <!-- ![Swift](https://img.shields.io/badge/-Swift-000000?style=flat&logo=Swift) -->
+
+---
+
+### <details><summary>📊 Statistics</summary>
+  
+<br>
+<a href="https://github.com/Cardosaum">
+  <img align="top" width="50%" src="./.metrics/header.svg" />
+</a>
+<br/>
+<a href="https://github.com/Cardosaum">
+  <img align="top" width="50%" src="./.metrics/repositories.svg" />
+</a>
+<a href="https://github.com/Cardosaum">
+  <img align="top" width="49%" src="./.metrics/acti_comm.svg" />
+</a>
+
+<a href="https://github.com/Cardosaum">
+  <img align="top" width="50%" src="./.metrics/iso_calender.svg" />
+</a>
+
+<a href="https://github.com/Cardosaum">
+    <img align="top" width="49%" src="./.metrics/issue_pr_lang.svg" />
+</a>
+
+<a href="https://github.com/Cardosaum">
+    <img align="top" width="50%" src="./.metrics/sponsors.svg" />
+</a>
+
+<a href="https://github.com/Cardosaum">
+    <img align="top" width="49%" src="./.metrics/achievements.svg" />
+</a>
+
+</details>
