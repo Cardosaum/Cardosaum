@@ -11,13 +11,15 @@ jobs:
   metrics:
     runs-on: ubuntu-latest
     steps:
-      - name: Sponsors introduction
+      - name: Featured star list
         uses: Cardosaum/metrics@master
         with:
-          filename: .metrics/sponsors.svg
+          filename: .metrics/starlists.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
-          plugin_sponsors: yes
+          plugin_starlists: yes
+          plugin_starlists_limit_repositories: 2
+          plugin_starlists_only: TC39
 
       - uses: Cardosaum/metrics@master
         with:

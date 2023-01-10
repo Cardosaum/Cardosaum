@@ -1,7 +1,7 @@
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+### Hi there
 
-I'm a Computer Science student at [University of Brasília](https://www.unb.br/),</br>
-Working on projects related to Bioinformatics & Computational Biology.
+I'm a Computer Science student, with a passion for my craft and looking forward to get better at it.
+Currently working on zkp applied to blockchain networks.
 
 [![Github Badge](https://img.shields.io/github/followers/Cardosaum?label=Follow&style=social)](https://github.com/Cardosaum/)
 
@@ -59,7 +59,7 @@ Working on projects related to Bioinformatics & Computational Biology.
 </a>
 
 <a href="https://github.com/Cardosaum">
-    <img align="top" width="50%" src="./.metrics/sponsors.svg" />
+    <img align="top" width="50%" src="./.metrics/starlists.svg" />
 </a>
 
 <a href="https://github.com/Cardosaum">
