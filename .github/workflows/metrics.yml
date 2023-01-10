@@ -42,13 +42,13 @@ jobs:
           committer_token: ${{ secrets.GITHUB_TOKEN }}
 
           # Options
-          user: Cardosam
+          user: Cardosaum
           template: classic
           base: header
           config_timezone: ${{ secrets.USER_TIMEZONE }}
 
       - name: lines
-        uses: Cardosam/metrics@master
+        uses: Cardosaum/metrics@master
         with:
           filename: .metrics/lines-of-code.svg
           token: ${{ secrets.METRICS_TOKEN }}
@@ -57,7 +57,7 @@ jobs:
           plugin_lines: yes
 
       - name: acti_comm
-        uses: Cardosam/metrics@master
+        uses: Cardosaum/metrics@master
         with:
           filename: .metrics/acti_comm.svg
           # You'll need to setup a personal token in your secrets.
@@ -66,13 +66,13 @@ jobs:
           committer_token: ${{ secrets.GITHUB_TOKEN }}
 
           # Options
-          user: Cardosam
+          user: Cardosaum
           template: classic
           base: activity, community
           config_timezone: ${{ secrets.USER_TIMEZONE }}
           
       - name: iso_calendar
-        uses: Cardosam/metrics@master
+        uses: Cardosaum/metrics@master
         with:
           filename: .metrics/iso_calender.svg
           # You'll need to setup a personal token in your secrets.
@@ -81,7 +81,7 @@ jobs:
           committer_token: ${{ secrets.GITHUB_TOKEN }}
 
           # Options
-          user: Cardosam
+          user: Cardosaum
           template: classic
           base: ""
           config_timezone: ${{ secrets.USER_TIMEZONE }}
@@ -89,7 +89,7 @@ jobs:
           plugin_isocalendar_duration: half-year
 
       - name: issue_pr_lang
-        uses: Cardosam/metrics@master
+        uses: Cardosaum/metrics@master
         with:
           filename: .metrics/issue_pr_lang.svg
           # You'll need to setup a personal token in your secrets.
@@ -98,7 +98,7 @@ jobs:
           committer_token: ${{ secrets.GITHUB_TOKEN }}
 
           # Options
-          user: Cardosam
+          user: Cardosaum
           template: classic
           base: ""
           config_timezone: ${{ secrets.USER_TIMEZONE }}
@@ -106,7 +106,7 @@ jobs:
           plugin_languages: yes
 
       - name: repositories
-        uses: Cardosam/metrics@master
+        uses: Cardosaum/metrics@master
         with:
           filename: .metrics/repositories.svg
           # You'll need to setup a personal token in your secrets.
@@ -115,7 +115,7 @@ jobs:
           committer_token: ${{ secrets.GITHUB_TOKEN }}
 
           # Options
-          user: Cardosam
+          user: Cardosaum
           template: classic
           base: repositories
           config_timezone: ${{ secrets.USER_TIMEZONE }}
