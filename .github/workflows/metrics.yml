@@ -12,14 +12,14 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Sponsors introduction
-        uses: Cardosaum/metrics@latest
+        uses: Cardosaum/metrics@master
         with:
           filename: .metrics/sponsors.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_sponsors: yes
 
-      - uses: Cardosaum/metrics@latest
+      - uses: Cardosaum/metrics@master
         with:
           filename: .metrics/achievements.svg
           token: ${{ secrets.METRICS_TOKEN }}
@@ -33,7 +33,7 @@ jobs:
           plugin_achievements_limit: 0          # Display all unlocked achievements (no limit)
 
       - name: header
-        uses: Cardosaum/metrics@latest
+        uses: Cardosaum/metrics@master
         with:
           filename: .metrics/header.svg
           # You'll need to setup a personal token in your secrets.
@@ -48,7 +48,7 @@ jobs:
           config_timezone: ${{ secrets.USER_TIMEZONE }}
 
       - name: lines
-        uses: Cardosam/metrics@latest
+        uses: Cardosam/metrics@master
         with:
           filename: .metrics/lines-of-code.svg
           token: ${{ secrets.METRICS_TOKEN }}
@@ -57,7 +57,7 @@ jobs:
           plugin_lines: yes
 
       - name: acti_comm
-        uses: Cardosam/metrics@latest
+        uses: Cardosam/metrics@master
         with:
           filename: .metrics/acti_comm.svg
           # You'll need to setup a personal token in your secrets.
@@ -72,7 +72,7 @@ jobs:
           config_timezone: ${{ secrets.USER_TIMEZONE }}
           
       - name: iso_calendar
-        uses: Cardosam/metrics@latest
+        uses: Cardosam/metrics@master
         with:
           filename: .metrics/iso_calender.svg
           # You'll need to setup a personal token in your secrets.
@@ -89,7 +89,7 @@ jobs:
           plugin_isocalendar_duration: half-year
 
       - name: issue_pr_lang
-        uses: Cardosam/metrics@latest
+        uses: Cardosam/metrics@master
         with:
           filename: .metrics/issue_pr_lang.svg
           # You'll need to setup a personal token in your secrets.
@@ -106,7 +106,7 @@ jobs:
           plugin_languages: yes
 
       - name: repositories
-        uses: Cardosam/metrics@latest
+        uses: Cardosam/metrics@master
         with:
           filename: .metrics/repositories.svg
           # You'll need to setup a personal token in your secrets.
