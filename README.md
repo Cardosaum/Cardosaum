@@ -46,7 +46,7 @@ Working on projects related to Bioinformatics & Computational Biology.
 
 ---
 
-### <details><summary>📊 Statistics</summary>
+<details><summary>📊 Statistics</summary>
   
 <br>
 <a href="https://github.com/Cardosaum">
