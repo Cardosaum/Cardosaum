@@ -34,7 +34,7 @@ Proficient in Rust, and currently exploring the powerful capabilities of Elixir 
 
 ## 📊 Statistics
 
-![](https://github-profile-trophy.vercel.app/?username=Cardosaum&row=1)
+![](https://github-profile-trophy.vercel.app/?username=Cardosaum&row=1&theme=dracula)
 
 [![cardosaum's github stats](https://github-readme-stats.vercel.app/api?username=cardosaum&theme=dracula)](https://github.com/cardosaum/github-readme-stats)
  
