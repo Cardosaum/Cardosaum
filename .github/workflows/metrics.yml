@@ -86,13 +86,6 @@ jobs:
           plugin_lines_history_limit: 1
           plugin_lines_repositories_limit: 4
           plugin_lines_sections: base
-          plugin_notable: no
-          plugin_notable_filter: stars:>5 forks:>=2 maintener=true
-          plugin_notable_from: organization
-          plugin_notable_indepth: yes
-          plugin_notable_repositories: yes
-          plugin_notable_self: yes
-          plugin_notable_types: commit
           plugin_people: yes
           plugin_people_limit: 24
           plugin_people_shuffle: yes
@@ -104,9 +97,6 @@ jobs:
           plugin_reactions_limit_discussions: 100
           plugin_reactions_limit_discussions_comments: 100
           plugin_reactions_limit_issues: 100
-          plugin_repositories: yes
-          plugin_repositories_featured: risc0/risc0
-          plugin_repositories_order: featured, pinned, starred, random
           plugin_stargazers: yes
           plugin_stargazers_charts: yes
           plugin_stargazers_charts_type: classic
