@@ -14,9 +14,9 @@ Proficient in Rust, and currently exploring the powerful capabilities of Elixir 
 |                        | ![Shell]            |           |
 |                        | ![R]                |           |
 
-[Rust]: https://img.shields.io/badge/Rust-3%20years-blue?style=flat&logo=rust
-[Elixir]: https://img.shields.io/badge/Elixir-1%20year-blue?style=flat&logo=elixir
-[Python]: https://img.shields.io/badge/Python-4%20years-blue?style=flat&logo=python
+[Rust]: https://img.shields.io/badge/Rust-4%20years-blue?style=flat&logo=rust
+[Elixir]: https://img.shields.io/badge/Elixir-2%20year-blue?style=flat&logo=elixir
+[Python]: https://img.shields.io/badge/Python-5%20years-blue?style=flat&logo=python
 [C]: https://img.shields.io/badge/C-4%20years-blue?style=flat&logo=c
 [C++]: https://img.shields.io/badge/C++-4%20years-blue?style=flat&logo=c%2B%2B
 [Shell]: https://img.shields.io/badge/Shell-4%20years-blue?style=flat&logo=gnu-bash
