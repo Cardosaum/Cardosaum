@@ -1,5 +1,7 @@
 {
     "titan.extension.excludedFromBuild": [
-        "/.github"
+        "/.github",
+        "/.wrangler/tmp",
+        "/.wrangler"
     ]
 }
