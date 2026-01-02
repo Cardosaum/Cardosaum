@@ -1,9 +1,9 @@
 # Matheus Cardoso
 
-Founding Engineer at Raiku, building high-performance infrastructure for Solana.
-I work across the core protocol stack, from off-chain transaction processing to
-validator modifications, with a focus on low latency, high throughput, and
-production-grade observability.
+Systems engineer focused on high-performance blockchain infrastructure and
+distributed systems. I build core protocol components, from off-chain
+transaction processing to validator-level performance work, with a focus on low
+latency, high throughput, and production-grade observability.
 
 ## Focus
 
